@@ -1,3 +1,5 @@
+#Ricardo Nevarez 2023-05-14 Draft
+
 import json, requests
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 appid = "9d43f0575fba95fb329e4df161d64aa5"
